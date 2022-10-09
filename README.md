@@ -1,2 +1,2 @@
 # OperadoresLogicos
-Exercícios utilizando operadores relacionais, Bootcamp Ifood e Dio.
+Exercícios utilizando operadores lógicos, Bootcamp Ifood e Dio.
